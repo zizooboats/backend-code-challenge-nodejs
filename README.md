@@ -64,6 +64,10 @@ input UpdateBoatInput {
 ```
 > You can extend the schema if needed
 
+## Bonus (no required but a plus)
+
+- Dockerize the API
+
 ## Test submission process and evaluation
 
 - Please provide a link to a GitHub or other public repository containing the solution’s source code
